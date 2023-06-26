@@ -1,0 +1,20 @@
+[
+    {
+        "name":"iphone", 
+        "price":154, 
+        "feature":true, 
+        "company":"apple"
+    }, 
+    {
+        "name":"samsung", 
+        "price":1532, 
+        "feature":true, 
+        "company":"mac"
+    }, 
+    {
+        "name":"dell", 
+        "price":198, 
+        "feature":true, 
+        "company":"os"
+    }
+]
